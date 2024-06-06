@@ -1,0 +1,81 @@
+{
+
+
+
+   "Practitioners":[
+
+
+
+      {  "FirstName":"Marlene",
+
+         "MiddleName":" ",
+
+         "LastName":"Typaldos",
+
+         "NationalProviderIdentifier":"1003143553",
+
+         "SubSpeciality":"200",
+
+         "Specialty": "Pediatric Pulmonology",
+
+         "PrimaryPhone":"8328223327",
+
+         "PrimaryFax":"0",
+
+         "AddressLine1":"6701 Fannin Street 9th Floor Floor 9",
+
+         "AddressLine2":"",
+
+         "City":"Houston",
+
+         "State":"TX",
+
+         "ZipCode":"77030"
+
+      },
+
+
+
+      {
+
+
+
+        
+
+
+
+         "FirstName":"Jason d",
+
+         "MiddleName":" ",
+
+         "LastName":"Rich",
+
+         "NationalProviderIdentifier":"1215341235",
+
+         "SubSpeciality":"139",
+
+         "Specialty": "Pediatrics",
+
+         "PrimaryPhone":"3212034026",
+
+         "PrimaryFax":"0",
+
+         "AddressLine1":"809 S Orlando Ave Suite c",
+
+         "AddressLine2":"",
+
+         "City":"Winter Park",
+
+         "State":"FL",
+
+         "ZipCode":"32789"
+
+      }
+
+
+
+   ]
+
+
+
+}
